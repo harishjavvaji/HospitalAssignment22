@@ -1,0 +1,36 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="HospitalAssignment2:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/HospitalAssignment2_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="HospitalAssignment2/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="HospitalAssignment2" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:el-api:6.0.53" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:jsp-api:6.0.53" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:servlet-api:6.0.53" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.0.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.0.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.0.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.0.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.0.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.0.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.0.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.0.8.RELEASE" />
+          <element id="library" level="project" name="Spring-4.3.18.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-4.3.18.RELEASE" />
+          <element id="library" level="project" name="Maven: org.postgresql:postgresql:42.2.4.jre7" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:2.6.0" />
+          <element id="library" level="project" name="Maven: javax.validation:validation-api:2.0.1.Final" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.12" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjrt:1.9.1" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.9.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
